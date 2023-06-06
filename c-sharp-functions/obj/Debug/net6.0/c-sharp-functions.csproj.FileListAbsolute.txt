@@ -1,0 +1,15 @@
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\bin\Debug\net6.0\c-sharp-functions.exe
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\bin\Debug\net6.0\c-sharp-functions.deps.json
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\bin\Debug\net6.0\c-sharp-functions.runtimeconfig.json
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\bin\Debug\net6.0\c-sharp-functions.dll
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\bin\Debug\net6.0\c-sharp-functions.pdb
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.csproj.AssemblyReference.cache
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.AssemblyInfoInputs.cache
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.AssemblyInfo.cs
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.csproj.CoreCompileInputs.cache
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.dll
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\refint\c-sharp-functions.dll
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.pdb
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\c-sharp-functions.genruntimeconfig.cache
+C:\Users\ict\source\repos\c-sharp-functions\c-sharp-functions\obj\Debug\net6.0\ref\c-sharp-functions.dll
